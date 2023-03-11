@@ -154,3 +154,4 @@ D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\refint\PerfumeSto
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\PerfumeStores.pdb
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\PerfumeStores.genruntimeconfig.cache
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\ref\PerfumeStores.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

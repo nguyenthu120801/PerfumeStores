@@ -1,6 +1,8 @@
-﻿namespace PerfumeStores.Data.Repositories
+﻿using PerfumeStores.Core.Repositories;
+
+namespace PerfumeStores.Data.Repositories
 {
-    public class CateRepo
+    public class CateRepo : ICateRepo
     {
     }
 }

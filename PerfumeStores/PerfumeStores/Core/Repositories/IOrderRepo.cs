@@ -1,6 +1,6 @@
 ﻿namespace PerfumeStores.Core.Repositories
 {
-    public class IOrderRepo
+    public interface IOrderRepo
     {
     }
 }
