@@ -120,7 +120,6 @@ namespace PerfumeStores.Services.Services
             {
                 var orderDetail = new OrderDetail
                 {
-                    OrderStatus = "Chờ xác nhận",
                     OrderId = orderID,
                     ProductId = item.ProductId,
                     ShippingAddress = address,
