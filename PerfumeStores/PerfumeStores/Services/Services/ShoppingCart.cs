@@ -14,19 +14,19 @@ namespace PerfumeStores.Services.Services
             _context = context;
         }
 
-        public async Task AddToCart(Product product)
+        public async Task AddToCart(int productId)
         {
             // Get the matching cart and album instances
             var cartItem = await _context.Carts.SingleOrDefaultAsync(
                 c => c.CustomerId == LoginDTO.Id
-                && c.ProductId == product.ProductId);
+                && c.ProductId == productId);
 
             if (cartItem == null)
             {
                 cartItem = new Cart
                 {
                     CustomerId = (int)LoginDTO.Id,
-                    ProductId = product.ProductId,
+                    ProductId = productId,
                     Quantity = 1
                 };
                 await _context.Carts.AddAsync(cartItem);

@@ -5,6 +5,6 @@ namespace PerfumeStores.Core.Services
 {
     public interface IProductService
     {
-        Task<PaginatedList<Product>> ProductPaging(int index);
+        Task<PaginatedList<Product>> ProductPaging(int cateId, int index, string searchString);
     }
 }
