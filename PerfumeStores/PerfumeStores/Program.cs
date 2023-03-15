@@ -1,7 +1,10 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using PerfumeStores.Core.Repositories;
+using PerfumeStores.Core.Services;
 using PerfumeStores.Data.Repositories;
+using PerfumeStores.Services.Mapping;
+using PerfumeStores.Services.Services;
 using System.Security.Claims;
 using System.Text;
 
@@ -9,12 +12,17 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-builder.Services.AddScoped<ICateRepo, CateRepo>();
-builder.Services.AddScoped<ICateRepo, CateRepo>();
-builder.Services.AddScoped<ICustomerRepo, CustomerRepo>();
-builder.Services.AddScoped<IOrderRepo, OrderRepo>();
-builder.Services.AddScoped<IOrderDetailRepo, OrderDetailRepo>();
-builder.Services.AddScoped<IProductRepo, ProductRepo>();
+//builder.Services.AddDbContext<Prn221Context>();
+builder.Services.AddTransient<ICateRepo, CateRepo>();
+builder.Services.AddTransient<ICateRepo, CateRepo>();
+builder.Services.AddTransient<ICustomerRepo, CustomerRepo>();
+builder.Services.AddTransient<IOrderRepo, OrderRepo>();
+builder.Services.AddTransient<IOrderDetailRepo, OrderDetailRepo>();
+builder.Services.AddTransient<IProductRepo, ProductRepo>();
+builder.Services.AddTransient<IAuthService, AuthService>();
+builder.Services.AddTransient<IShoppingCart, ShoppingCart>();
+builder.Services.AddTransient<IImageHandle, ImageHandle>();
+builder.Services.AddTransient<IProductService, ProductService>();
 
 builder.Services.AddSession(options =>
 {
@@ -30,25 +38,7 @@ builder.Services.Configure<CookiePolicyOptions>(options =>
     options.MinimumSameSitePolicy = SameSiteMode.Lax;
 });
 builder.Services.AddDistributedMemoryCache();
-builder.Services.AddAuthentication(x =>
-{
-    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-})
-            .AddJwtBearer(x =>
-            {
-                x.TokenValidationParameters = new TokenValidationParameters
-                {
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"])),
-                    ValidateIssuer = false,
-                    ValidateAudience = false,
-                    ClockSkew = TimeSpan.Zero
-                };
-            });
-builder.Services.AddAuthorization(options =>
-{
-    options.AddPolicy("AdminOnly", policy => policy.RequireClaim(ClaimTypes.Role, "Admin"));
-});
+builder.Services.AddAutoMapper(typeof(CustomerProfile));
 
 var app = builder.Build();
 

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
     },
     {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
@@ -303,6 +307,10 @@
     {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\jquery.slicknav.js",
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\main.js",

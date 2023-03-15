@@ -25,5 +25,5 @@ public partial class Customer
 
     public virtual ICollection<Cart> Carts { get; } = new List<Cart>();
 
-    public virtual ICollection<OrderDetail> OrderDetails { get; } = new List<OrderDetail>();
+    public virtual ICollection<Order> Orders { get; } = new List<Order>();
 }
