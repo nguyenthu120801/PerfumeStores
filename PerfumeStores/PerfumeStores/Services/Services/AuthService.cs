@@ -34,7 +34,7 @@ namespace PerfumeStores.Services.Services
             return true;
         }
 
-        public async Task<Customer> Login(LoginDTO loginDTO)
+        public async Task<Customer?> Login(LoginDTO loginDTO)
         {
      
             var customer = await _context.Customers.FirstOrDefaultAsync(x => x.Username.ToLower() == loginDTO.Username.ToLower());
@@ -45,8 +45,9 @@ namespace PerfumeStores.Services.Services
                     LoginDTO.Id = customer.CustomerId;
                     return customer;
                 }
+                else return null;
             }
-            throw new AuthenticationException("Incorrect username or password");
+            else return null;
         }
     }
 }
