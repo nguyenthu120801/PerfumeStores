@@ -37,6 +37,7 @@ public partial class Prn221Context : DbContext
         {
             optionsBuilder.UseSqlServer(connect);
         }
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
