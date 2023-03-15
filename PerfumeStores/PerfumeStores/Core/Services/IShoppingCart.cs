@@ -6,7 +6,7 @@ namespace PerfumeStores.Core.Services
     {
         Task<List<Cart>> GetCartItems();
         Task<int> RemoveFromCart(int id);
-        Task AddToCart(Product product);
+        Task AddToCart(int productId);
         Task<decimal> GetTotal();
         Task<int> CreateOrder(Order order, string address);
     }

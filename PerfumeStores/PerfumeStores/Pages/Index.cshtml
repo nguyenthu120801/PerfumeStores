@@ -1,7 +1,9 @@
 ﻿@page
+@using PerfumeStores.Core.Models;
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+    var cateList = ViewData["Category"] as IEnumerable<Category>;
 }
 <div id="preloder">
     <div class="loader"></div>
@@ -16,17 +18,10 @@
                         <span>All departments</span>
                     </div>
                     <ul>
-                        <li><a href="#">Fresh Meat</a></li>
-                        <li><a href="#">Vegetables</a></li>
-                        <li><a href="#">Fruit & Nut Gifts</a></li>
-                        <li><a href="#">Fresh Berries</a></li>
-                        <li><a href="#">Ocean Foods</a></li>
-                        <li><a href="#">Butter & Eggs</a></li>
-                        <li><a href="#">Fastfood</a></li>
-                        <li><a href="#">Fresh Onion</a></li>
-                        <li><a href="#">Papayaya & Crisps</a></li>
-                        <li><a href="#">Oatmeal</a></li>
-                        <li><a href="#">Fresh Bananas</a></li>
+                        @foreach (var item in cateList)
+                        {
+                            <li><a href="./index?CateId=@item.CategoryId">@item.Name</a></li>
+                        }
                     </ul>
                 </div>
             </div>

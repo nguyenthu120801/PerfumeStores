@@ -25,5 +25,6 @@ namespace PerfumeStores.Pages.Shopping
         {
             await _shoppingCart.RemoveFromCart(Id);
         }
+
     }
 }

@@ -4,8 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using PerfumeStores.Core.DTOs;
 using PerfumeStores.Core.Models;
 using PerfumeStores.Core.Services;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Authentication;
 
 namespace PerfumeStores.Services.Services
 {
@@ -13,13 +11,11 @@ namespace PerfumeStores.Services.Services
     {
         private readonly Prn221Context _context;
         private readonly IMapper _mapper;
-        private readonly IConfiguration _configuration;
 
-        public AuthService(Prn221Context context, IMapper mapper, IConfiguration configuration)
+        public AuthService(Prn221Context context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;
-            _configuration = configuration;
         }
 
         public async Task<bool> Register(RegisterDTO registerDTO)

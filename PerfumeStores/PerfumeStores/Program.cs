@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using PerfumeStores.Core.Models;
 using PerfumeStores.Core.Repositories;
 using PerfumeStores.Core.Services;
 using PerfumeStores.Data.Repositories;
@@ -12,13 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-//builder.Services.AddDbContext<Prn221Context>();
-builder.Services.AddTransient<ICateRepo, CateRepo>();
-builder.Services.AddTransient<ICateRepo, CateRepo>();
-builder.Services.AddTransient<ICustomerRepo, CustomerRepo>();
-builder.Services.AddTransient<IOrderRepo, OrderRepo>();
-builder.Services.AddTransient<IOrderDetailRepo, OrderDetailRepo>();
-builder.Services.AddTransient<IProductRepo, ProductRepo>();
+builder.Services.AddDbContext<Prn221Context>();
 builder.Services.AddTransient<IAuthService, AuthService>();
 builder.Services.AddTransient<IShoppingCart, ShoppingCart>();
 builder.Services.AddTransient<IImageHandle, ImageHandle>();
