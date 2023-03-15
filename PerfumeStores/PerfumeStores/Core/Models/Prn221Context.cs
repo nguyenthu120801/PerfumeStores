@@ -28,8 +28,15 @@ public partial class Prn221Context : DbContext
     public virtual DbSet<Product> Products { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("server=localhost;database=PRN221;integrated security=true;TrustServerCertificate=True;");
+    {
+        var connectionString = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", true, true)
+                .Build();
+        string connect = connectionString.GetConnectionString("CnnStr");
+        if (!optionsBuilder.IsConfigured)
+        {
+            optionsBuilder.UseSqlServer(connect);
+        }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -94,12 +101,16 @@ public partial class Prn221Context : DbContext
             entity.Property(e => e.OrderId).HasColumnName("OrderID");
             entity.Property(e => e.CounpId).HasColumnName("CounpID");
             entity.Property(e => e.CreateDate).HasColumnType("datetime");
-            entity.Property(e => e.OrderDetailId).HasColumnName("OrderDetailID");
+            entity.Property(e => e.CustomerId).HasColumnName("CustomerID");
+            entity.Property(e => e.OrderStatus)
+                .IsRequired()
+                .HasMaxLength(50);
+            entity.Property(e => e.Total).HasColumnType("decimal(18, 0)");
 
-            entity.HasOne(d => d.OrderDetail).WithMany(p => p.Orders)
-                .HasForeignKey(d => d.OrderDetailId)
+            entity.HasOne(d => d.Customer).WithMany(p => p.Orders)
+                .HasForeignKey(d => d.CustomerId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Order_OrderDetail");
+                .HasConstraintName("FK_Order_Customer");
         });
 
         modelBuilder.Entity<OrderDetail>(entity =>
@@ -107,17 +118,16 @@ public partial class Prn221Context : DbContext
             entity.ToTable("OrderDetail");
 
             entity.Property(e => e.OrderDetailId).HasColumnName("OrderDetailID");
-            entity.Property(e => e.CustomerId).HasColumnName("CustomerID");
-            entity.Property(e => e.OrderStatus)
-                .IsRequired()
-                .HasMaxLength(10)
-                .IsFixedLength();
+            entity.Property(e => e.OrderId).HasColumnName("OrderID");
             entity.Property(e => e.ProductId).HasColumnName("ProductID");
+            entity.Property(e => e.ShippingAddress)
+                .IsRequired()
+                .HasMaxLength(100);
 
-            entity.HasOne(d => d.Customer).WithMany(p => p.OrderDetails)
-                .HasForeignKey(d => d.CustomerId)
+            entity.HasOne(d => d.Order).WithMany(p => p.OrderDetails)
+                .HasForeignKey(d => d.OrderId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_OrderDetail_Customer");
+                .HasConstraintName("FK_OrderDetail_Order");
 
             entity.HasOne(d => d.Product).WithMany(p => p.OrderDetails)
                 .HasForeignKey(d => d.ProductId)

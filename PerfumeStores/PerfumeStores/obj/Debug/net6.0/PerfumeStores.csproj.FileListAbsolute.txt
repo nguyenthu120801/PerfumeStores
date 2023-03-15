@@ -74,9 +74,12 @@ D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\PerfumeStores.dep
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\PerfumeStores.runtimeconfig.json
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\PerfumeStores.dll
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\PerfumeStores.pdb
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\AutoMapper.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Azure.Core.dll
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Azure.Identity.dll
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Humanizer.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -154,4 +157,3 @@ D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\refint\PerfumeSto
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\PerfumeStores.pdb
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\PerfumeStores.genruntimeconfig.cache
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\ref\PerfumeStores.dll
-D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

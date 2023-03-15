@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Project_PRN221\PerfumeStores\PerfumeStores
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,12 +28,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shopping/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/_ViewImports.cshtml]
