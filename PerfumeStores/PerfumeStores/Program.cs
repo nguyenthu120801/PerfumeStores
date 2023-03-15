@@ -1,13 +1,7 @@
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
 using PerfumeStores.Core.Models;
-using PerfumeStores.Core.Repositories;
 using PerfumeStores.Core.Services;
-using PerfumeStores.Data.Repositories;
 using PerfumeStores.Services.Mapping;
 using PerfumeStores.Services.Services;
-using System.Security.Claims;
-using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
