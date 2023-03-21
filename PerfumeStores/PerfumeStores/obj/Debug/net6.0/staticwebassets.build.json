@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PaGB4IHZSZ1sCZIRgzyai+N9w1iA7jk2iVzqTb0QQKE=",
+  "Hash": "Xkhjj589G5nd6hzmyUuEf//yARC7ZRsU0oekV5oIUQI=",
   "Source": "PerfumeStores",
   "BasePath": "_content/PerfumeStores",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PerfumeStores\\wwwroot",
       "Source": "PerfumeStores",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PerfumeStores.styles.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PerfumeStores.styles.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "PerfumeStores.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PerfumeStores.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PerfumeStores.styles.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PerfumeStores.bundle.scp.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PerfumeStores.bundle.scp.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "PerfumeStores.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PerfumeStores.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PerfumeStores.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\jquery-ui.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\jquery-ui.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "css/jquery-ui.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-ui.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\login.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\nice-select.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\nice-select.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "css/nice-select.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\site.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\slicknav.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "css/slicknav.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slicknav.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\css\\style.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\favicon.ico",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner\\banner-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner\\banner-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/banner/banner-1.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner\\banner-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner\\banner-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/banner/banner-2.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-4.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-4.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/blog-4.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-4.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-5.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-5.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/blog-5.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-5.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-6.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-6.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/blog-6.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-6.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-author.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/details/details-author.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\details-author.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-hero.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/details/details-hero.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\details-hero.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-pic.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/details/details-pic.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\details-pic.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/sidebar/sr-1.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\sidebar\\sr-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/sidebar/sr-2.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\sidebar\\sr-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/blog/sidebar/sr-3.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\sidebar\\sr-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\breadcrumb.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\breadcrumb.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/breadcrumb.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\breadcrumb.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/cart/cart-1.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\cart-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/cart/cart-2.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\cart-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/cart/cart-3.jpg",
       "AssetKind": "All",
@@ -510,10 +510,61 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\cart-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/cart-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cart-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart-2.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/cart-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cart-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart-3.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/cart-3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cart-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-1.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/categories/cat-1.jpg",
       "AssetKind": "All",
@@ -527,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/categories/cat-2.jpg",
       "AssetKind": "All",
@@ -544,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/categories/cat-3.jpg",
       "AssetKind": "All",
@@ -561,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-4.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-4.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/categories/cat-4.jpg",
       "AssetKind": "All",
@@ -578,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-4.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-5.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-5.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/categories/cat-5.jpg",
       "AssetKind": "All",
@@ -595,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-5.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/featured/feature-1.jpg",
       "AssetKind": "All",
@@ -612,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/featured/feature-2.jpg",
       "AssetKind": "All",
@@ -629,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/featured/feature-3.jpg",
       "AssetKind": "All",
@@ -646,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-4.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-4.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/featured/feature-4.jpg",
       "AssetKind": "All",
@@ -663,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-4.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-5.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-5.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/featured/feature-5.jpg",
       "AssetKind": "All",
@@ -680,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-5.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-6.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-6.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/featured/feature-6.jpg",
       "AssetKind": "All",
@@ -697,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-6.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-7.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-7.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/featured/feature-7.jpg",
       "AssetKind": "All",
@@ -714,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-7.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-8.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-8.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/featured/feature-8.jpg",
       "AssetKind": "All",
@@ -731,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-8.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\hero\\banner.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\hero\\banner.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/hero/banner.jpg",
       "AssetKind": "All",
@@ -748,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero\\banner.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\language.png",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\language.png",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/language.png",
       "AssetKind": "All",
@@ -765,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\language.png"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/latest-product/lp-1.jpg",
       "AssetKind": "All",
@@ -782,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-product\\lp-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/latest-product/lp-2.jpg",
       "AssetKind": "All",
@@ -799,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-product\\lp-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/latest-product/lp-3.jpg",
       "AssetKind": "All",
@@ -816,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-product\\lp-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\logo.png",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -833,10 +884,350 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\payment-item.png",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa1.png",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa10.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa10.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa10.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa11.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa11.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa12.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa12.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa13.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa13.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa14.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa14.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa14.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa15.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa15.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa16.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa16.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa16.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa17.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa17.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa17.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa18.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa18.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa18.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa19.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa19.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa19.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa2.png",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa2.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa20.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa20.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa20.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa3.png",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa3.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa4.png",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa4.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa5.png",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa5.png"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa6.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa7.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa8.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa9.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/nuochoa9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nuochoa9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\payment-item.png",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/payment-item.png",
       "AssetKind": "All",
@@ -850,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\payment-item.png"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/product-details-1.jpg",
       "AssetKind": "All",
@@ -867,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/product-details-2.jpg",
       "AssetKind": "All",
@@ -884,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/product-details-3.jpg",
       "AssetKind": "All",
@@ -901,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-4.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/product-details-4.jpg",
       "AssetKind": "All",
@@ -918,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-4.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-5.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/product-details-5.jpg",
       "AssetKind": "All",
@@ -935,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-5.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/thumb-1.jpg",
       "AssetKind": "All",
@@ -952,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\thumb-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/thumb-2.jpg",
       "AssetKind": "All",
@@ -969,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\thumb-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/thumb-3.jpg",
       "AssetKind": "All",
@@ -986,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\thumb-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-4.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/details/thumb-4.jpg",
       "AssetKind": "All",
@@ -1003,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\thumb-4.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/discount/pd-1.jpg",
       "AssetKind": "All",
@@ -1020,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/discount/pd-2.jpg",
       "AssetKind": "All",
@@ -1037,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/discount/pd-3.jpg",
       "AssetKind": "All",
@@ -1054,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-4.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/discount/pd-4.jpg",
       "AssetKind": "All",
@@ -1071,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-4.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-5.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/discount/pd-5.jpg",
       "AssetKind": "All",
@@ -1088,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-5.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-6.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/discount/pd-6.jpg",
       "AssetKind": "All",
@@ -1105,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-6.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-1.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-1.jpg",
       "AssetKind": "All",
@@ -1122,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-1.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-10.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-10.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-10.jpg",
       "AssetKind": "All",
@@ -1139,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-10.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-11.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-11.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-11.jpg",
       "AssetKind": "All",
@@ -1156,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-11.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-12.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-12.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-12.jpg",
       "AssetKind": "All",
@@ -1173,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-12.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-2.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-2.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-2.jpg",
       "AssetKind": "All",
@@ -1190,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-2.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-3.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-3.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-3.jpg",
       "AssetKind": "All",
@@ -1207,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-3.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-4.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-4.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-4.jpg",
       "AssetKind": "All",
@@ -1224,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-4.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-5.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-5.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-5.jpg",
       "AssetKind": "All",
@@ -1241,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-5.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-6.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-6.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-6.jpg",
       "AssetKind": "All",
@@ -1258,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-6.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-7.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-7.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-7.jpg",
       "AssetKind": "All",
@@ -1275,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-7.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-8.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-8.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-8.jpg",
       "AssetKind": "All",
@@ -1292,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-8.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-9.jpg",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-9.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "img/product/product-9.jpg",
       "AssetKind": "All",
@@ -1309,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-9.jpg"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\jquery.nice-select.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\jquery.nice-select.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "js/jquery.nice-select.min.js",
       "AssetKind": "All",
@@ -1326,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.nice-select.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\jquery.slicknav.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\jquery.slicknav.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "js/jquery.slicknav.js",
       "AssetKind": "All",
@@ -1343,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.slicknav.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\login.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\login.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "js/login.js",
       "AssetKind": "All",
@@ -1360,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\main.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1377,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\mixitup.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\mixitup.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "js/mixitup.min.js",
       "AssetKind": "All",
@@ -1394,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\js\\mixitup.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1411,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\site.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1428,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1445,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1462,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1479,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1496,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1513,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1530,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1547,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1564,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1581,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1598,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1615,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1649,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1666,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1683,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1700,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1717,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1734,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1751,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1768,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1785,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1802,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1819,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1836,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1853,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1870,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1887,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1904,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1921,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1938,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1955,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1972,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1989,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2006,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2023,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2040,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2057,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2074,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2091,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2108,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2125,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2142,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2159,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2176,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2193,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2210,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2227,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2244,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2261,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2278,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2295,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2312,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2329,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2346,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2363,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2380,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\wwwroot\\",
       "BasePath": "_content/PerfumeStores",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

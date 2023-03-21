@@ -9,49 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PerfumeStores
 build_property.RootNamespace = PerfumeStores
-build_property.ProjectDir = D:\Project_PRN221\PerfumeStores\PerfumeStores\
+build_property.ProjectDir = C:\Users\ASUS\Documents\FULearning\Spring2023\PRN221\PerfumeStores\PerfumeStores\PerfumeStores\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Project_PRN221\PerfumeStores\PerfumeStores
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Documents\FULearning\Spring2023\PRN221\PerfumeStores\PerfumeStores\PerfumeStores
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Checkout/Index.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Error.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Index.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Login.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Privacy.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/ProductManage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/ProductManage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/ProductManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/ProductManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/ProductManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shopping/Cart.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/Shopping/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/_ViewImports.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/_ViewStart.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shared/_Layout.cshtml]
+[C:/Users/ASUS/Documents/FULearning/Spring2023/PRN221/PerfumeStores/PerfumeStores/PerfumeStores/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5szx6xhka5
