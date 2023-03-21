@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj": {}
   },
   "projects": {
-    "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj": {
+    "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
         "projectName": "PerfumeStores",
-        "projectPath": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
-        "packagesPath": "C:\\Users\\thinh\\.nuget\\packages\\",
-        "outputPath": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,6 +58,12 @@
               "target": "Package",
               "version": "[7.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -70,6 +71,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
             }
           },
           "imports": [
@@ -91,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
