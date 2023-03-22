@@ -1,0 +1,63 @@
+﻿@page
+@model PerfumeStores.Pages.OrderManage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Order Manage</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Create Date
+            </th>
+            <th>
+                Discount
+            </th>
+            <th>
+                Total
+            </th>
+            <th>
+                OrderStatus
+            </th>
+            <th>
+                Is Paid
+            </th>
+            <th>
+                Customer
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Order) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CounpId)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.Total)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsPaid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.FirstName) @Html.DisplayFor(modelItem => item.Customer.LastName)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.OrderId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.OrderId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.OrderId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
