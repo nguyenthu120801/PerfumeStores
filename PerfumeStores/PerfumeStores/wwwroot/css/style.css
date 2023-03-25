@@ -1918,7 +1918,9 @@ ol {
 
 .shoping__cart__table table tbody tr td.shoping__cart__item img {
 	display: inline-block;
-	margin-right: 25px;
+	margin-right: 15px;
+	max-width: 200px;
+	max-height: 200px;
 }
 
 .shoping__cart__table table tbody tr td.shoping__cart__item h5 {

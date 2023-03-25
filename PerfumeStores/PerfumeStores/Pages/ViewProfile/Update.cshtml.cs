@@ -19,6 +19,10 @@ namespace PerfumeStores.Pages.ViewProfile
 
         [BindProperty]
         public Customer cus { get; set; } = default!;
+        [BindProperty(SupportsGet = true)]
+        public int Id { get; set; }
+
+
         public async Task<IActionResult> OnGetAsync(int? id)
         {
 
@@ -59,7 +63,7 @@ namespace PerfumeStores.Pages.ViewProfile
                 }
             }
 
-            return RedirectToPage("./Index");
+            return Page();
         }
 
         private bool CustomerExists(int id)

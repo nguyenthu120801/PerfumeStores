@@ -64,11 +64,12 @@
                                 else
                                 {
                                     <div class="header__top__right__language">
-                                        <a href="/ViewProfile"><i class="fa fa-user"></i>Welcome, @LayoutModel.UserName</a>
+                                        <a href="/ViewProfile?id=@LoginDTO.CustomerID"><i class="fa fa-user"></i>Welcome, @LayoutModel.UserName</a>
                                         <span class="arrow_carrot-down"></span>
                                         <ul>
-                                            <li><a href="/ViewProfile/update">Update account</a></li>
-                                            <li><a href="/ViewProfile/changepassword">Change Password</a></li>
+                                            <li><a href="/ViewProfile/update?id=@LoginDTO.CustomerID">Update account</a></li>
+                                            <li><a href="/ViewProfile/changepassword?id=@LoginDTO.CustomerID">Change Password</a></li>
+                                            <li><a href="/ViewProfile/logout">Logout</a></li>
                                         </ul>
                                     </div>
                                 }

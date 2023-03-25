@@ -82,8 +82,8 @@ namespace PerfumeStores.Services.Services
         {
             // Get the count of each item in the cart and sum them up
             int? count = await (from cartItems in _context.Carts
-                          where cartItems.CartId == id
-                          select (int?)cartItems.Quantity).SumAsync();
+                                where cartItems.CartId == id
+                                select (int?)cartItems.Quantity).SumAsync();
             // Return 0 if all entries are null
             return count ?? 0;
         }
@@ -93,34 +93,30 @@ namespace PerfumeStores.Services.Services
             // the current price for each of those albums in the cart
             // sum all album price totals to get the cart total
 
-            decimal? total = (decimal?) await (from cartItems in _context.Carts
-                                        where cartItems.CustomerId == id
-                                        select (int?)cartItems.Quantity * cartItems.Product.Price).SumAsync();
+            decimal? total = (decimal?)await (from cartItems in _context.Carts
+                                              where cartItems.CustomerId == id
+                                              select (int?)cartItems.Quantity * cartItems.Product.Price).SumAsync();
             return total ?? 0;
         }
         public async Task<int> CreateOrder(Order order, string address, int id)
         {
             decimal orderTotal = 0;
             var cartItems = await GetCartItems(id);
-            foreach (var item in cartItems)
-                //orderTotal += (item.Quantity * item.Product.Price);
-                try
-                {
-                    await _context.Orders.AddAsync(order);
-                    await _context.SaveChangesAsync();
-                }
-                catch (Exception ex)
-                {
-                    //MessageBox.Show(ex.Message);
-                    return -1;
-                }
-            int orderID = _context.Orders.Select(o => o.OrderId).Max();
-            // Iterate over the items in the cart, adding the order details for each
+            try
+            {
+                await _context.Orders.AddAsync(order);
+                await _context.SaveChangesAsync();
+            }
+            catch (Exception ex)
+            {
+                //MessageBox.Show(ex.Message);
+                return -1;
+            }
             foreach (var item in cartItems)
             {
                 var orderDetail = new OrderDetail
                 {
-                    OrderId = orderID,
+                    OrderId = order.OrderId,
                     ProductId = item.ProductId,
                     ShippingAddress = address,
                     Quantity = item.Quantity,
@@ -140,7 +136,7 @@ namespace PerfumeStores.Services.Services
             // Empty the shopping cart
             await EmptyCart(id);
             // Return the OrderId as the confirmation number
-            return orderID;
+            return order.OrderId;
         }
     }
 }
