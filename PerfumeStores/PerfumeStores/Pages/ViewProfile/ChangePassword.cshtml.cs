@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Common.Securities;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using PerfumeStores.Core.Models;
@@ -50,22 +51,22 @@ namespace PerfumeStores.Pages.ViewProfile
         {
             var customer = await _context.Customers.FirstOrDefaultAsync(m => m.CustomerId == id);
             cus = customer;
-            if (cus.Password != OldPassword)
+            if (cus.Password != Cryptography.MD5Hash(OldPassword))
             {
                 ViewData["Message"] = "Mật khẩu cũ không chính xác. Xin hãy nhập lại";
 
             }
-            else if(cus.Password == NewPassword)
+            else if (cus.Password == Cryptography.MD5Hash(NewPassword))
             {
                 ViewData["Message"] = "Mật khẩu mới phải khác mật khẩu cũ. Xin hãy nhập lại";
             }
-            else if(NewPassword != ConfirmPassword)
+            else if (NewPassword != ConfirmPassword)
             {
 
             }
-            else 
+            else
             {
-                cus.Password = NewPassword;
+                cus.Password = Cryptography.MD5Hash(NewPassword);
                 _context.Attach(cus).State = EntityState.Modified;
                 await _context.SaveChangesAsync();
                 ViewData["Message"] = "Đổi mật khẩu thành công.";

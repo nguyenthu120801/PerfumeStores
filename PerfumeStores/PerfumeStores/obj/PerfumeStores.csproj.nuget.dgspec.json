@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\hiep\\PerfumeStores-hiep\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj": {}
+    "D:\\FPT\\smth new\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\hiep\\PerfumeStores-hiep\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj": {
+    "D:\\FPT\\smth new\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\hiep\\PerfumeStores-hiep\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
+        "projectUniqueName": "D:\\FPT\\smth new\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
         "projectName": "PerfumeStores",
-        "projectPath": "D:\\FPT\\hiep\\PerfumeStores-hiep\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
+        "projectPath": "D:\\FPT\\smth new\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
         "packagesPath": "C:\\Users\\NQ\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\hiep\\PerfumeStores-hiep\\PerfumeStores\\PerfumeStores\\obj\\",
+        "outputPath": "D:\\FPT\\smth new\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

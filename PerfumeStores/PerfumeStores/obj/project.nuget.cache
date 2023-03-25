@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zO2iVZk8h0H8PwndXvevjpF+qUSxZS+yHE9i7CtN7FNlvOa1F5ihNaT9TPEwF8ppLJOQP3O7GLno4MhcrkZi+Q==",
+  "dgSpecHash": "BynsK/x2gv0DP0DX6nFCosmU02oMVZXv+Ru/hXG18y663L6GR/BG8WWOT+13AMcEmOQsrs8fkQuvEU5uTIXgKw==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\hiep\\PerfumeStores-hiep\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
+  "projectFilePath": "D:\\FPT\\smth new\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NQ\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\NQ\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
