@@ -17,11 +17,10 @@ namespace PerfumeStores.Pages.ViewProfile
         public Customer cus { get; set; } = default!;
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            //if (id == null || _context.Customers == null)
-            //{
-            //    return NotFound();
-            //}
-            id = 1;
+            if (id == null || _context.Customers == null)
+            {
+                return NotFound();
+            }
             var customer = await _context.Customers.FirstOrDefaultAsync(m => m.CustomerId == id);
             if (customer == null)
             {
