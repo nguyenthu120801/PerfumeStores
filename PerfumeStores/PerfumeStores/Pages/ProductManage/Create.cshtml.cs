@@ -7,18 +7,20 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using PerfumeStores.Core.Models;
+using PerfumeStores.Core.Services;
 using PerfumeStores.Services;
 
 namespace PerfumeStores.Pages.ProductManage
 {
     public class CreateModel : PageModel
     {
-        private readonly PerfumeStores.Core.Models.Prn221Context _context;
-        private readonly ImageHandle imageHandle = new ImageHandle();
+        private readonly Prn221Context _context;
+        private readonly IImageHandle _imageHandle;
         private Microsoft.AspNetCore.Hosting.IHostingEnvironment _environment;
-        public CreateModel(PerfumeStores.Core.Models.Prn221Context context, Microsoft.AspNetCore.Hosting.IHostingEnvironment environment)
+        public CreateModel(Prn221Context context, IImageHandle imageHandle, Microsoft.AspNetCore.Hosting.IHostingEnvironment environment)
         {
             _context = context;
+            _imageHandle = imageHandle;
             _environment = environment;
         }
 
@@ -41,7 +43,7 @@ namespace PerfumeStores.Pages.ProductManage
         public async Task<IActionResult> OnPostAsync()
         {
 
-            Product.Image = imageHandle.AddImage(Image, _environment);
+            Product.Image = await _imageHandle.AddImage(Image, _environment);
             _context.Products.Add(Product);
             await _context.SaveChangesAsync();
 

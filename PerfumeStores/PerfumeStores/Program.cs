@@ -1,7 +1,5 @@
 using PerfumeStores.Core.Models;
 using PerfumeStores.Core.Services;
-using PerfumeStores.Services;
-using PerfumeStores.Services.Mapping;
 using PerfumeStores.Services.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +9,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddDbContext<Prn221Context>();
 builder.Services.AddTransient<IAuthService, AuthService>();
 builder.Services.AddTransient<IShoppingCart, ShoppingCart>();
+builder.Services.AddTransient<IImageHandle, ImageHandle>();
 builder.Services.AddTransient<IProductService, ProductService>();
 
 builder.Services.AddSession(options =>
@@ -27,7 +26,6 @@ builder.Services.Configure<CookiePolicyOptions>(options =>
     options.MinimumSameSitePolicy = SameSiteMode.Lax;
 });
 builder.Services.AddDistributedMemoryCache();
-builder.Services.AddAutoMapper(typeof(CustomerProfile));
 
 var app = builder.Build();
 

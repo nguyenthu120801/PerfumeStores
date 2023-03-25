@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using PerfumeStores.Core.Models;
+using PerfumeStores.Core.Services;
 using PerfumeStores.Services;
 using System.ComponentModel.DataAnnotations;
 
@@ -11,11 +12,12 @@ namespace PerfumeStores.Pages.ProductManage
     public class EditModel : PageModel
     {
         private readonly PerfumeStores.Core.Models.Prn221Context _context;
-        private readonly ImageHandle imageHandle = new ImageHandle();
+        private readonly IImageHandle _imageHandle;
         private Microsoft.AspNetCore.Hosting.IHostingEnvironment _environment;
-        public EditModel(PerfumeStores.Core.Models.Prn221Context context, Microsoft.AspNetCore.Hosting.IHostingEnvironment environment)
+        public EditModel(PerfumeStores.Core.Models.Prn221Context context, IImageHandle imageHandle, Microsoft.AspNetCore.Hosting.IHostingEnvironment environment)
         {
             _context = context;
+            _imageHandle = imageHandle;
             _environment = environment;
         }
 
@@ -48,7 +50,7 @@ namespace PerfumeStores.Pages.ProductManage
         // For more details, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
-            Product.Image = imageHandle.AddImage(Image, _environment);
+            Product.Image = await _imageHandle.AddImage(Image, _environment);
             _context.Attach(Product).State = EntityState.Modified;
 
             try

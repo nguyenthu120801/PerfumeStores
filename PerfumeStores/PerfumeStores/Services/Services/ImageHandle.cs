@@ -1,10 +1,13 @@
-﻿namespace PerfumeStores.Services
+﻿
+using PerfumeStores.Core.Services;
+
+namespace PerfumeStores.Services.Services
 {
-    public class ImageHandle
+    public class ImageHandle : IImageHandle
     {
         public static readonly List<string> ImageExtensions = new List<string> { ".jpg", ".jpeg", ".jpe", ".bmp", ".gif", ".png" };
 
-        public string? AddImage(IFormFile file, Microsoft.AspNetCore.Hosting.IHostingEnvironment environment)
+        public async Task<string?> AddImage(IFormFile file, Microsoft.AspNetCore.Hosting.IHostingEnvironment environment)
         {
             if (file != null)
             {
@@ -12,16 +15,16 @@
                 {
                     if (file.FileName.Contains(f))
                     {
-                        var fileUp = Path.Combine(environment.WebRootPath, "img", file.FileName);
+                        var fileUp = Path.Combine(environment.WebRootPath, "images", file.FileName);
                         using (var fileStream = new FileStream(fileUp, FileMode.Create))
                         {
-                            file.CopyTo(fileStream);
-                            return $"/img/{file.FileName}";
+                            await file.CopyToAsync(fileStream);
+                            return $"/images/{file.FileName}";
                         }
                     }
                 }
             }
-            return "/img/default-image.jpg";
+            return null;
         }
     }
 }

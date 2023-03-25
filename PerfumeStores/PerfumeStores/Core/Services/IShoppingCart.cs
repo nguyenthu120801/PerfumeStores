@@ -4,10 +4,10 @@ namespace PerfumeStores.Core.Services
 {
     public interface IShoppingCart
     {
-        Task<List<Cart>> GetCartItems();
-        Task<int> RemoveFromCart(int id);
-        Task AddToCart(int productId);
-        Task<decimal> GetTotal();
-        Task<int> CreateOrder(Order order, string address);
+        Task<List<Cart>> GetCartItems(int id);
+        Task<int> RemoveFromCart(int proId, int id);
+        Task AddToCart(int productId, int id);
+        Task<decimal> GetTotal(int id);
+        Task<int> CreateOrder(Order order, string address, int id);
     }
 }

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using PerfumeStores.Core.DTOs;
 using PerfumeStores.Core.Services;
+using PerfumeStores.Pages.Shared;
 
 namespace PerfumeStores.Pages.Shopping
 {
@@ -12,18 +13,26 @@ namespace PerfumeStores.Pages.Shopping
 
         public CartModel(IShoppingCart shoppingCart) => _shoppingCart= shoppingCart;
 
-        [BindProperty]
+        [BindProperty(Name = "id", SupportsGet = true)]
         public int Id { get; set; }
 
-        public async void OnGet()
+        public async Task<IActionResult> OnGet()
         {
-            ViewData["Cart"] = await _shoppingCart.GetCartItems();
-            ViewData["Total"] = await _shoppingCart.GetTotal();
+            if (LoginDTO.CustomerID != null)
+            {
+                ViewData["Cart"] = await _shoppingCart.GetCartItems((int)LoginDTO.CustomerID);
+                ViewData["Total"] = await _shoppingCart.GetTotal((int)LoginDTO.CustomerID);
+                return Page();
+            }
+            else
+                return Redirect("/login");
         }
 
-        public async void OnPostDelete()
+        public async Task<IActionResult> OnPostDelete()
         {
-            await _shoppingCart.RemoveFromCart(Id);
+            await _shoppingCart.RemoveFromCart(Id, (int)LoginDTO.CustomerID);
+            LayoutModel.AmountCart = (await _shoppingCart.GetCartItems((int)LoginDTO.CustomerID)).Count;
+            return Redirect("/shopping/cart");
         }
 
     }

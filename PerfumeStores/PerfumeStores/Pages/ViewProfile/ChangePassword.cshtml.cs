@@ -29,23 +29,23 @@ namespace PerfumeStores.Pages.ViewProfile
 
         [BindProperty]
         public Customer cus { get; set; } = default!;
-        //public async Task<IActionResult> OnGetAsync(int? id)
-        //{
+        public async Task<IActionResult> OnGetAsync(int? id)
+        {
+            var customer = await _context.Customers.FirstOrDefaultAsync(m => m.CustomerId == id);
+            if (id == null || _context.Customers == null)
+            {
+                return NotFound();
+            }
 
-        //    if (id == null || _context.Customers == null)
-        //    {
-        //        return NotFound();
-        //    }
 
-            
-        //    if (customer == null)
-        //    {
-        //        return NotFound();
-        //    }
-        //    cus = customer;
+            if (customer == null)
+            {
+                return NotFound();
+            }
+            cus = customer;
 
-        //    return Page();
-        //}
+            return Page();
+        }
         public async Task<IActionResult> OnPostAsync(int? id)
         {
             var customer = await _context.Customers.FirstOrDefaultAsync(m => m.CustomerId == id);
