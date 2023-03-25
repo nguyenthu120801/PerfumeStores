@@ -1,0 +1,92 @@
+﻿@page
+@model PerfumeStores.Pages.ViewProfile.UpdateModel
+@{
+    ViewData["Title"] = "ViewProfile";
+}
+
+
+<section class="checkout spad">
+    <div class="container">
+        <div class="checkout__form">
+            <h4>Personal Profile</h4>
+            <form method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+                    <div class="col-lg-8 col-md-6"> 
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <input type="hidden" asp-for="cus.CustomerId"/>
+                                <div class="checkout__input" >
+                                    <p>First Name<span>*</span></p>
+                                    <input asp-for="cus.FirstName" style="font-weight: bold; color:black" required>
+                                    <span asp-validation-for="cus.FirstName" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Last Name<span>*</span></p>
+                                    <input asp-for="cus.LastName" style="font-weight: bold; color:black" required >
+                                    <span asp-validation-for="cus.LastName" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="checkout__input">
+                            <p>Address<span>*</span></p>
+                            <strong><input asp-for="cus.Address" placeholder="Street Address" style="font-weight: bold; color:black" class="checkout__input__add" required></strong>
+                            <span asp-validation-for="cus.Address" class="text-danger"></span>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Phone<span>*</span></p>
+                                    <strong><input type="number" asp-for="cus.Phone" style="font-weight: bold; color:black" required></strong>
+                                    <span asp-validation-for="cus.Phone" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="checkout__input">
+                                    <p>Email<span>*</span></p>
+                                    <input type="email" asp-for="cus.Email" style="font-weight: bold; color:black" required>
+                                    <span asp-validation-for="cus.Email" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-5">
+                                <div class="checkout__input">
+                                    <p>Username<span>*</span></p>
+                                    <input asp-for="cus.Username" style="font-weight: bold; color:black" readonly>
+                                    <span asp-validation-for="cus.Username" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-lg-5">
+                                <div class="checkout__input">
+                                    <p>Password<span>*</span></p>
+                                    <input type="password" id="cus.Password" name="cus.Password" value="@Model.cus.Password" style="font-weight: bold; color:black" readonly>
+                                    <span asp-validation-for="cus.Password" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-lg-2">
+                                <div class="checkout__input">
+                                    <p> </p>
+                                    <br />
+                                    <a asp-page="./ChangePassword" class="btn btn-primary" asp-route-id="@Model.cus?.CustomerId">Change Password</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <button onclick="goBack()" class="btn btn-danger">Back</button>
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>

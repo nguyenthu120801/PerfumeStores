@@ -115,13 +115,13 @@
                                 </ul>
                             </div>
                             <div class="header__top__right__auth">
-                                @if (LoginDTO.Id != null)
+                                @if (LoginDTO.Id == null)
                                 {
                                     <a href="./login"><i class="fa fa-user"></i> Login</a>
                                 }
                                 else
                                 {
-                                    <a href="#"><i class="fa fa-user"></i>Welcome</a>
+                                    <a href="./ViewProfile"><i class="fa fa-user"></i>Welcome</a>
                                 }
                             </div>
                         </div>

@@ -10814,19 +10814,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\NQ\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
+      "projectUniqueName": "D:\\FPT\\PerfumeStores-main\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
       "projectName": "PerfumeStores",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\FULearning\\Spring2023\\PRN221\\PerfumeStores\\PerfumeStores\\PerfumeStores\\obj\\",
+      "projectPath": "D:\\FPT\\PerfumeStores-main\\PerfumeStores\\PerfumeStores\\PerfumeStores.csproj",
+      "packagesPath": "C:\\Users\\NQ\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT\\PerfumeStores-main\\PerfumeStores\\PerfumeStores\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10908,7 +10913,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

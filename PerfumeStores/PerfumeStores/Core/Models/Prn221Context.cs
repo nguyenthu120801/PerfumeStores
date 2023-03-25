@@ -32,7 +32,7 @@ public partial class Prn221Context : DbContext
         var connectionString = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", true, true)
                 .Build();
-        string connect = connectionString.GetConnectionString("CnnStr");
+        string connect = connectionString.GetConnectionString("MyCnn");
         if (!optionsBuilder.IsConfigured)
         {
             optionsBuilder.UseSqlServer(connect);
