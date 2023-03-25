@@ -31,6 +31,7 @@ namespace PerfumeStores.Pages
         {
             ViewData["Category"] = await _context.Categories.ToListAsync();
             ViewData["ProductHome"] = await _productService.ProductHome();
+            LayoutModel.AmountCart = LoginDTO.CustomerID != null ? (await _shoppingCart.GetCartItems((int)LoginDTO.CustomerID)).Count : 0;
         }
 
         public async Task<IActionResult> OnGetAddToCart(int productId)

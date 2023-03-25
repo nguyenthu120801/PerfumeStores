@@ -40,8 +40,6 @@ namespace PerfumeStores.Pages.Checkout
                 Total = await _shoppingCart.GetTotal((int)LoginDTO.CustomerID),
                 OrderStatus = "Waiting for confirmation",
             };
-            await _context.Orders.AddAsync(order);
-            await _context.SaveChangesAsync();
             await _shoppingCart.CreateOrder(order, $"{Address}, {City}", (int)LoginDTO.CustomerID);
             return Redirect("/shopping/order");
         }

@@ -41,6 +41,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner.jpg"
+    },
+    {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
     },

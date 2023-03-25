@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8TpeP5EL4dkoOkiwcmor0J/ZUum32eSSkGRc+2jdZgQ=",
+  "Hash": "rANVNpdl53g24vlMqY6y7iBg5o3Bk0iygmHrvMQLWCE=",
   "Source": "PerfumeStores",
   "BasePath": "_content/PerfumeStores",
   "Mode": "Default",
@@ -204,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/banner.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\banner.jpg"
+    },
+    {
       "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner\\banner-1.jpg",
       "SourceId": "PerfumeStores",
       "SourceType": "Discovered",
@@ -236,6 +253,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner-1.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/banner-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\banner-1.jpg"
+    },
+    {
+      "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\banner-2.jpg",
+      "SourceId": "PerfumeStores",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\",
+      "BasePath": "_content/PerfumeStores",
+      "RelativePath": "img/banner-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\banner-2.jpg"
     },
     {
       "Identity": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\breadcrumb.jpg",

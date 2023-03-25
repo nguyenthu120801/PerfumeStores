@@ -32,7 +32,7 @@
                                             <h5>@item.CreateDate</h5>
                                         </td>
                                         <td class="shoping__cart__item">
-                                            <h5>@item.OrderDetails.First().ShippingAddress</h5>
+                                            <h5>@item.OrderDetails.First().ShippingAddress</h5> 
                                         </td>
                                         <td class="shoping__cart__item">
                                             <h5>@item.OrderStatus</h5>
@@ -41,7 +41,7 @@
                                             $@item.Total
                                         </td>
                                         <td class="shoping__cart__item__close">
-                                            @if (item.OrderStatus.Equals("Wait for confirmation"))
+                                            @if (item.OrderStatus.Equals("	Waiting for confirmation"))
                                             {
                                                 <span asp-page-handler="Delete" asp-route-id="@item.OrderId" class="icon_close"></span>
                                             }

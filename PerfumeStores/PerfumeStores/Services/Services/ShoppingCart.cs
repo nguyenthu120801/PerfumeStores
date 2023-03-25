@@ -128,7 +128,7 @@ namespace PerfumeStores.Services.Services
                 };
                 try
                 {
-                    //_context.OrderDetails.Add(orderDetail);
+                    _context.OrderDetails.Add(orderDetail);
                     await _context.SaveChangesAsync();
                 }
                 catch (Exception ex)

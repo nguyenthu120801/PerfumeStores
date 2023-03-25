@@ -154,3 +154,12 @@ D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\refint\PerfumeSto
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\PerfumeStores.pdb
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\PerfumeStores.genruntimeconfig.cache
 D:\Project_PRN221\PerfumeStores\PerfumeStores\obj\Debug\net6.0\ref\PerfumeStores.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\FusionCharts.DataEngine.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\FusionCharts.Visualization.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project_PRN221\PerfumeStores\PerfumeStores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
