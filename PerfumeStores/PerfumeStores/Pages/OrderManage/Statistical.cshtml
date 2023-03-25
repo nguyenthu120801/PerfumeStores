@@ -1,0 +1,90 @@
+﻿@page
+@using PerfumeStores.Core.DTOs;
+@model PerfumeStores.Pages.OrderManage.StatisticalModel
+@{
+    var listStatic = ViewData["Statis"] as IEnumerable<Statistical>;
+    List<double> DataList = new List<double>();
+    var labelList = new List<string>();
+    foreach (var item in listStatic)
+    {
+        labelList.Add(item.Product.Name);
+        DataList.Add(item.TotalRevenue);
+    }
+    var labels = string.Join(",", labelList.ToArray());
+}
+<canvas id="myChart"></canvas>
+@section Scripts
+ {
+<script>
+    $(document).ready(function () {
+            BarChart();
+        });
+        function BarChart() {
+            var XaxisTitle = 'Colour Bar';
+            var Yaxistitle = 'Rupees';
+            var legendTitle = 'Months';
+            const ctx = document.getElementById('myChart');
+            debugger;
+            $.ajax({
+                type:'GET',
+                url:'?handler=BarChart',
+                data:{},
+                success:function(data){
+                    new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels:[data.labels],
+                            datasets: [{
+                                label: ,
+                                data:[data.datasets],
+                                borderWidth: 1,                                                        
+                            }]
+                        },
+                        options: {
+                            scales: {
+                                x: {
+                                    display: true,
+                                    beginAtZero: true,
+                                    title: {
+                                        display: true,
+                                        text: XaxisTitle,
+                                        color: '#911',
+                                        font: {
+                                            family: 'Comic Sans MS',
+                                            size: 20,
+                                            weight: 'bold',
+                                            lineHeight: 1.2,
+                                        },
+                                        padding: { top: 20, left: 0, right: 0, bottom: 0 }
+                                    }
+                                },
+
+                                y: {
+                                    display: true,
+                                    title: {
+                                        display: true,
+                                        text: Yaxistitle,
+                                        color: '#191',
+                                        font: {
+                                            family: 'Times',
+                                            size: 20,
+                                            style: 'normal',
+                                            lineHeight: 1.2
+                                        },
+                                        padding: { top: 30, left: 0, right: 0, bottom: 0 }
+                                    }
+                                }
+                            }
+                        }
+                    });
+                },
+                error:function(){
+                    alert('Something went wrong!!');
+                }
+            });
+
+            
+
+        }
+</script>
+}

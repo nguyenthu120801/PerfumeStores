@@ -1,0 +1,99 @@
+﻿@page
+@model PerfumeStores.Pages.OrderManage.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Order Details</h1>
+
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            CreateDate
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.CreateDate)
+        </dd>
+        <dt class="col-sm-2">
+            Discount
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.CounpId)
+        </dd>
+        <dt class="col-sm-2">
+            Total
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.Total)
+        </dd>
+        <dt class="col-sm-2">
+            OrderStatus
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderStatus)
+        </dd>
+        <dt class="col-sm-2">
+            IsPaid
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.IsPaid)
+        </dd>
+        <dt class="col-sm-2">
+            Customer
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.Customer.FirstName) @Html.DisplayFor(model => model.Order.Customer.LastName)
+        </dd>
+    </dl>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Product
+                </th>
+                <th>
+                    Image
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+                    Total
+                </th>
+                <th>
+                    ShipAddress
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Order.OrderDetails)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Product.Name)
+                    </td>
+                    <td>
+                        <img src="@item.Product.Image" alt="@item.Product.Image" width="250" height="250" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        $@Html.DisplayFor(modelItem => item.TotalPrice)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ShippingAddress)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Order?.OrderId">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

@@ -1,6 +1,5 @@
 using PerfumeStores.Core.Models;
 using PerfumeStores.Core.Services;
-using PerfumeStores.Services.Mapping;
 using PerfumeStores.Services.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,7 +26,6 @@ builder.Services.Configure<CookiePolicyOptions>(options =>
     options.MinimumSameSitePolicy = SameSiteMode.Lax;
 });
 builder.Services.AddDistributedMemoryCache();
-builder.Services.AddAutoMapper(typeof(CustomerProfile));
 
 var app = builder.Build();
 

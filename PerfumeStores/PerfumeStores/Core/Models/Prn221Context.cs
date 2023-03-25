@@ -151,6 +151,9 @@ public partial class Prn221Context : DbContext
             entity.Property(e => e.Name)
                 .IsRequired()
                 .HasMaxLength(100);
+            entity.Property(e => e.Origin)
+                .IsRequired()
+                .HasMaxLength(20);
 
             entity.HasOne(d => d.Category).WithMany(p => p.Products)
                 .HasForeignKey(d => d.CategoryId)

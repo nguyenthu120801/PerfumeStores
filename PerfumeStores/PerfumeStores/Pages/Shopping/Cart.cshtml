@@ -40,30 +40,35 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (var item in cart)
+                            @if (cart != null)
                             {
-                                <tr>
-                                    <td class="shoping__cart__item">
-                                        <img src="@item.Product.Image" alt="">
-                                        <h5>@item.Product.Name</h5>
-                                    </td>
-                                    <td class="shoping__cart__price">
-                                        $@item.Product.Price
-                                    </td>
-                                    <td class="shoping__cart__quantity">
-                                        <div class="quantity">
-                                            <div class="pro-qty">
-                                                @item.Quantity
+                                @foreach (var item in cart)
+                                {
+                                    <tr>
+                                        <td class="shoping__cart__item">
+                                            <img src="@item.Product.Image" alt="">
+                                            <h5>@item.Product.Name</h5>
+                                        </td>
+                                        <td class="shoping__cart__price">
+                                            $@item.Product.Price
+                                        </td>
+                                        <td class="shoping__cart__quantity">
+                                            <div class="quantity">
+                                                <div class="pro-qty">
+                                                    @item.Quantity
+                                                </div>
                                             </div>
-                                        </div>
-                                    </td>
-                                    <td class="shoping__cart__total">
-                                        $@(item.Product.Price * item.Quantity)
-                                    </td>
-                                    <td class="shoping__cart__item__close">
-                                        <span class="icon_close"></span>
-                                    </td>
-                                </tr>
+                                        </td>
+                                        <td class="shoping__cart__total">
+                                            $@(
+                                           item.Product.Price * item.Quantity
+                                           )
+                                        </td>
+                                        <td class="shoping__cart__item__close">
+                                            <span asp-page-handler="Delete" asp-route-id="" class="icon_close"></span>
+                                        </td>
+                                    </tr>
+                                }
                             }
                         </tbody>
                     </table>
@@ -86,10 +91,10 @@
                 <div class="shoping__checkout">
                     <h5>Cart Total</h5>
                     <ul>
-                        <li>Subtotal <span>$454.98</span></li>
-                        <li>Total <span>$454.98</span></li>
+                        <li>Subtotal <span>$@total</span></li>
+                        <li>Total <span>$@total</span></li>
                     </ul>
-                    <a href="./checkout/index" class="primary-btn">PROCEED TO CHECKOUT</a>
+                    <a href="/checkout/index" class="primary-btn">PROCEED TO CHECKOUT</a>
                 </div>
             </div>
         </div>

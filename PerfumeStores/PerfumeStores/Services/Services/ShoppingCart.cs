@@ -14,18 +14,18 @@ namespace PerfumeStores.Services.Services
             _context = context;
         }
 
-        public async Task AddToCart(int productId)
+        public async Task AddToCart(int productId, int id)
         {
             // Get the matching cart and album instances
             var cartItem = await _context.Carts.SingleOrDefaultAsync(
-                c => c.CustomerId == LoginDTO.Id
+                c => c.CustomerId == id
                 && c.ProductId == productId);
 
             if (cartItem == null)
             {
                 cartItem = new Cart
                 {
-                    CustomerId = (int)LoginDTO.Id,
+                    CustomerId = id,
                     ProductId = productId,
                     Quantity = 1
                 };
@@ -37,11 +37,11 @@ namespace PerfumeStores.Services.Services
             }
             await _context.SaveChangesAsync();
         }
-        public async Task<int> RemoveFromCart(int id)
+        public async Task<int> RemoveFromCart(int productId, int id)
         {
             var cartItem = await _context.Carts.SingleOrDefaultAsync(
-                c => c.CustomerId == LoginDTO.Id
-                && c.ProductId == id);
+                c => c.CustomerId == id
+                && c.ProductId == productId);
 
             int itemCount = 0;
             if (cartItem != null)
@@ -60,10 +60,10 @@ namespace PerfumeStores.Services.Services
             }
             return itemCount;
         }
-        private async Task EmptyCart()
+        private async Task EmptyCart(int id)
         {
             var cartItems = _context.Carts
-                .Where(cart => cart.CartId == LoginDTO.Id);
+                .Where(cart => cart.CustomerId == id);
 
             foreach (var cartItem in cartItems)
             {
@@ -72,36 +72,36 @@ namespace PerfumeStores.Services.Services
             // Save changes
             await _context.SaveChangesAsync();
         }
-        public async Task<List<Cart>> GetCartItems()
+        public async Task<List<Cart>> GetCartItems(int id)
         {
-            return await _context.Carts.Where(cart => cart.CartId == LoginDTO.Id)
+            return await _context.Carts.Where(cart => cart.CustomerId == id)
                 .Include(cart => cart.Product)
                 .ToListAsync();
         }
-        public async Task<int> GetCount()
+        public async Task<int> GetCount(int id)
         {
             // Get the count of each item in the cart and sum them up
             int? count = await (from cartItems in _context.Carts
-                          where cartItems.CartId == LoginDTO.Id
+                          where cartItems.CartId == id
                           select (int?)cartItems.Quantity).SumAsync();
             // Return 0 if all entries are null
             return count ?? 0;
         }
-        public async Task<decimal> GetTotal()
+        public async Task<decimal> GetTotal(int id)
         {
             // Multiply album price by count of that album to get
             // the current price for each of those albums in the cart
             // sum all album price totals to get the cart total
 
             decimal? total = (decimal?) await (from cartItems in _context.Carts
-                                        where cartItems.CartId == LoginDTO.Id
+                                        where cartItems.CustomerId == id
                                         select (int?)cartItems.Quantity * cartItems.Product.Price).SumAsync();
             return total ?? 0;
         }
-        public async Task<int> CreateOrder(Order order, string address)
+        public async Task<int> CreateOrder(Order order, string address, int id)
         {
             decimal orderTotal = 0;
-            var cartItems = await GetCartItems();
+            var cartItems = await GetCartItems(id);
             foreach (var item in cartItems)
                 //orderTotal += (item.Quantity * item.Product.Price);
                 try
@@ -138,7 +138,7 @@ namespace PerfumeStores.Services.Services
                 }
             }
             // Empty the shopping cart
-            await EmptyCart();
+            await EmptyCart(id);
             // Return the OrderId as the confirmation number
             return orderID;
         }

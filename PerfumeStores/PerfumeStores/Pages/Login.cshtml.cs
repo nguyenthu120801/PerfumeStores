@@ -1,24 +1,18 @@
-using AutoMapper;
-using Common.Securities;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
 using PerfumeStores.Core.DTOs;
 using PerfumeStores.Core.Services;
-using PerfumeStores.Services.Services;
+using PerfumeStores.Pages.Shared;
 
 namespace PerfumeStores.Pages
 {
     public class LoginModel : PageModel
     {
         private readonly IAuthService _authService;
-        private readonly IMapper _mapper;
 
-        public LoginModel(IAuthService authService, IMapper mapper)
+        public LoginModel(IAuthService authService)
         {
             _authService = authService;
-            _mapper = mapper;
         }
         [BindProperty]
         public LoginDTO LoginDTO { get; set; }
@@ -37,6 +31,13 @@ namespace PerfumeStores.Pages
                 var loginInfo = await _authService.Login(LoginDTO);
                 if (loginInfo != null)
                 {
+                    if (loginInfo.IsAdmin)
+                    {
+                        LoginDTO.IsAdmin = true;
+                        LayoutModel.UserName = loginInfo.Username;
+                    }
+                    LoginDTO.CustomerID = loginInfo.CustomerId;
+                    //HttpContext.Session.SetString("Customer", JsonSerializer.Serialize<Customer>(loginInfo));
                     return this.RedirectToPage("./index");
                 }
                 else
@@ -58,8 +59,10 @@ namespace PerfumeStores.Pages
                 var result = await _authService.Register(RegisterDTO);
                 if (result)
                 {
-                    LoginDTO = _mapper.Map<LoginDTO>(RegisterDTO);
+                    LoginDTO = new LoginDTO() { Username = RegisterDTO.Username, Password = RegisterDTO.Password };
                     var loginInfo = await _authService.Login(LoginDTO);
+                    LoginDTO.CustomerID = loginInfo.CustomerId;
+                    //HttpContext.Session.SetString("Customer", JsonSerializer.Serialize<Customer>(loginInfo));
                     return this.RedirectToPage("./index");
                 }
                 else

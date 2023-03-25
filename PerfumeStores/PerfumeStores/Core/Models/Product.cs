@@ -13,6 +13,12 @@ public partial class Product
 
     public string Description { get; set; }
 
+    public bool Status { get; set; }
+
+    public string Origin { get; set; }
+
+    public int Capacity { get; set; }
+
     public string Image { get; set; }
 
     public double Price { get; set; }

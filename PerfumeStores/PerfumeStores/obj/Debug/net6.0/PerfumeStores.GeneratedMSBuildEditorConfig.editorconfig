@@ -32,8 +32,48 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/OrderManage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJNYW5hZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/OrderManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJNYW5hZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/OrderManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJNYW5hZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/OrderManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/OrderManage/Statistical.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJNYW5hZ2VcU3RhdGlzdGljYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/ProductManage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/ProductManage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/ProductManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/ProductManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/ProductManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE1hbmFnZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shared/_ValidationScriptsPartial.cshtml]
@@ -42,6 +82,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shopping/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shopping/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shopping/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdcT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/Shopping/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdcUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/ViewProfile/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Byb2ZpbGVcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/ViewProfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Byb2ZpbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/ViewProfile/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Byb2ZpbGVcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project_PRN221/PerfumeStores/PerfumeStores/Pages/_ViewImports.cshtml]

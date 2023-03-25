@@ -49,68 +49,8 @@
       "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
     },
     {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-1.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-2.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-3.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-4.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-5.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\blog-6.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-author.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\details\\details-author.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-hero.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\details\\details-pic.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-3.jpg"
-    },
-    {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\breadcrumb.jpg",
       "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-1.jpg",
-      "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-2.jpg",
-      "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\cart\\cart-3.jpg",
-      "PackagePath": "staticwebassets\\img\\cart\\cart-3.jpg"
     },
     {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\categories\\cat-1.jpg",
@@ -133,38 +73,6 @@
       "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
     },
     {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-1.jpg",
-      "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-2.jpg",
-      "PackagePath": "staticwebassets\\img\\featured\\feature-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-3.jpg",
-      "PackagePath": "staticwebassets\\img\\featured\\feature-3.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-4.jpg",
-      "PackagePath": "staticwebassets\\img\\featured\\feature-4.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-5.jpg",
-      "PackagePath": "staticwebassets\\img\\featured\\feature-5.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-6.jpg",
-      "PackagePath": "staticwebassets\\img\\featured\\feature-6.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-7.jpg",
-      "PackagePath": "staticwebassets\\img\\featured\\feature-7.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\featured\\feature-8.jpg",
-      "PackagePath": "staticwebassets\\img\\featured\\feature-8.jpg"
-    },
-    {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\hero\\banner.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
     },
@@ -173,132 +81,92 @@
       "PackagePath": "staticwebassets\\img\\language.png"
     },
     {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-1.jpg",
-      "PackagePath": "staticwebassets\\img\\latest-product\\lp-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-2.jpg",
-      "PackagePath": "staticwebassets\\img\\latest-product\\lp-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\latest-product\\lp-3.jpg",
-      "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
-    },
-    {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa1.png",
+      "PackagePath": "staticwebassets\\img\\nuochoa1.png"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa10.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa10.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa11.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa11.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa12.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa12.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa13.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa13.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa14.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa14.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa15.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa15.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa16.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa16.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa17.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa17.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa18.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa18.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa19.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa19.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa2.png",
+      "PackagePath": "staticwebassets\\img\\nuochoa2.png"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa20.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa20.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa3.png",
+      "PackagePath": "staticwebassets\\img\\nuochoa3.png"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa4.png",
+      "PackagePath": "staticwebassets\\img\\nuochoa4.png"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa5.png",
+      "PackagePath": "staticwebassets\\img\\nuochoa5.png"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa6.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa6.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa7.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa7.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa8.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa8.jpg"
+    },
+    {
+      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\nuochoa9.jpg",
+      "PackagePath": "staticwebassets\\img\\nuochoa9.jpg"
+    },
+    {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\payment-item.png",
       "PackagePath": "staticwebassets\\img\\payment-item.png"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-1.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-3.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-4.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-4.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\product-details-5.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-5.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-1.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\details\\thumb-4.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-1.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-3.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-4.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-4.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-5.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-5.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\discount\\pd-6.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-6.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-1.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-10.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-11.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-12.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-4.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-5.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-6.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-7.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-8.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
-    },
-    {
-      "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\img\\product\\product-9.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
     },
     {
       "Id": "D:\\Project_PRN221\\PerfumeStores\\PerfumeStores\\wwwroot\\js\\jquery.nice-select.min.js",

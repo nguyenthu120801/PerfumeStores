@@ -6,6 +6,6 @@ namespace PerfumeStores.Core.Services
     public interface IAuthService
     {
         Task<bool> Register(RegisterDTO registerDTO);
-        Task<Customer> Login(LoginDTO loginDTO);
+        Task<Customer?> Login(LoginDTO loginDTO);
     }
 }

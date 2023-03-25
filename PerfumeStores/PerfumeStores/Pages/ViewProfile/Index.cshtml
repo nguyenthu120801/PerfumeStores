@@ -1,0 +1,73 @@
+﻿@page
+@model PerfumeStores.Pages.ViewProfile.IndexModel
+@{
+    ViewData["Title"] = "ViewProfile";
+}
+
+
+<section class="checkout spad">
+    <div class="container">
+        <div class="checkout__form">
+            <h4>Personal Profile</h4>
+            <form action="#">
+                <div class="row">
+                    <div class="col-lg-8 col-md-6">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>First Name<span>*</span></p>
+                                    <input type="text" style="font-weight: bold; color:black" value="@Model.cus.FirstName" readonly>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Last Name<span>*</span></p>
+                                    <input type="text" style="font-weight: bold; color:black" value="@Model.cus.LastName" readonly>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="checkout__input">
+                            <p>Address<span>*</span></p>
+                            <strong><input type="text" placeholder="Street Address" style="font-weight: bold; color:black" class="checkout__input__add" value="@Model.cus.Address" readonly></strong>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Phone<span>*</span></p>
+                                    <strong><input type="text" style="font-weight: bold; color:black" value="@Model.cus.Phone" readonly></strong>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Email<span>*</span></p>
+                                    <input type="text" style="font-weight: bold; color:black" value="@Model.cus.Email" readonly>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Username<span>*</span></p>
+                                    <input type="text" style="font-weight: bold; color:black" value="@Model.cus.Username" readonly>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Password<span>*</span></p>
+                                    <input type="password" id="cus.Password" name="cus.Password" value="@Model.cus.Password" style="font-weight: bold; color:black" readonly>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <button onclick="goBack()" class="btn btn-danger">Back</button>
+            <a asp-page="./Update" class="btn btn-primary" asp-route-id="@Model.cus?.CustomerId">Update</a>
+        </div>
+    </div>
+</section>
+<script>
+    function goBack() {
+        window.history.back();
+    }
+</script>

@@ -29,12 +29,12 @@ namespace PerfumeStores.Services.Services
                 return (PageIndex < TotalPages);
             }
         }
-        public async Task<PaginatedList<T>> Create(IQueryable<T> source, int pageIndex, int pageSize)
+        public static PaginatedList<T> Create(IQueryable<T> source, int pageIndex, int pageSize)
         {
             var count = source.Count();
-            var items = await source.Skip(
+            var items = source.Skip(
                 (pageIndex - 1) * pageSize)
-                .Take(pageSize).ToListAsync();
+                .Take(pageSize).ToList();
             return new PaginatedList<T>(items, count, pageIndex, pageSize);
         }
     }
